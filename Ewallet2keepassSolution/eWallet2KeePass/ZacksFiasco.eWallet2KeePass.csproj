@@ -8,8 +8,8 @@
     <ProjectGuid>{3FE14DAB-1B4D-4464-9C0E-C02179B1AC27}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>eWallet2KeePass</RootNamespace>
-    <AssemblyName>eWallet2KeePass</AssemblyName>
+    <RootNamespace>ZacksFiasco.eWallet2KeePass</RootNamespace>
+    <AssemblyName>ZacksFiasco.eWallet2KeePass</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -49,6 +49,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="License.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
