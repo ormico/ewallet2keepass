@@ -12,7 +12,7 @@ namespace ZacksFiasco.eWallet2KeePass
 		static void Main(string[] args)
 		{
 			string inFileName = "ewallet.txt";
-			string outFileName = "KeePass.xml";
+			string outFileName = "KeePass.kdbx";
 
 			// check commandline
 			if (args.Length > 0)
