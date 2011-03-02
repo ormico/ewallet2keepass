@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using System.Xml.Linq;
 
-namespace eWallet2KeePass
+namespace ZacksFiasco.eWallet2KeePass
 {
 	class Program
 	{

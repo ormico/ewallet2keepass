@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eWallet2KeePass", "eWallet2KeePass\eWallet2KeePass.csproj", "{3FE14DAB-1B4D-4464-9C0E-C02179B1AC27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZacksFiasco.eWallet2KeePass", "eWallet2KeePass\ZacksFiasco.eWallet2KeePass.csproj", "{3FE14DAB-1B4D-4464-9C0E-C02179B1AC27}"
 EndProject
 Global
 	GlobalSection(MercurialSourceControlSolutionProperties) = preSolution
